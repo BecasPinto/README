@@ -10,8 +10,8 @@
 
 ## Projetos Destacados
 
-- [Working...](link para o repositório): Ainda em Desinvolvimento...
+- [Em Desinvolvimento](github.com/becaspinto): Ainda em Desinvolvimento...
+  
 ## Contato
 
-- X.com: [https://twitter.com/bepin__]
-
+- [X.com](https://twitter.com/bepin__)
