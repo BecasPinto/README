@@ -1,17 +1,11 @@
-# BecasPinto
+# Hi
 
-👋 Olá! Bem-vindo(a) ao meu perfil do GitHub!
+👋 Hi! Wellcome this is my Gitgub profile.
 
-## Sobre mim
+## Projects
 
-- 🌱 Desenvolvedor entusiasta em constante aprendizado.
-- 💻 Apaixonado por programação e tecnologia.
-- 🎓 Estudando e aprimorando habilidades em Python e WEB [PHP; MYSQL; HTML; CSS; JS] .
-
-## Projetos Destacados
-
-- [Em Desinvolvimento](github.com/becaspinto): Ainda em Desinvolvimento...
+- [None](blank): ....?....
   
-## Contato
+## Social Media
 
 - [X.com](https://twitter.com/bepin__)
