@@ -58,14 +58,14 @@ I am an independent developer, just starting my journey in the world of programm
 <details open> 
   <summary><h2>📚 My Top Projects</h2></summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/PintoBernardo/PintoBernardo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/PintoBernardo/PintoBernardo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/PintoBernardo/PintoBernardo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/PintoBernardo/PintoBernardo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/PintoBernardo/PintoBernardo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/PintoBernardo/PintoBernardo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/PintoBernardo/PintoBernardo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/PintoBernardo/PintoBernardo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark&desciption=&show_icons=true)](https://github.com/PintoBernardo/PintoBernardo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark&desciption=&show_icons=true)](https://github.com/PintoBernardo/PintoBernardo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark&desciption=&show_icons=true)](https://github.com/PintoBernardo/PintoBernardo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark&desciption=&show_icons=true)](https://github.com/PintoBernardo/PintoBernardo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark&desciption=&show_icons=true)](https://github.com/PintoBernardo/PintoBernardo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark&desciption=&show_icons=true)](https://github.com/PintoBernardo/PintoBernardo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark&desciption=&show_icons=true)](https://github.com/PintoBernardo/PintoBernardo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark&desciption=&show_icons=true)](https://github.com/PintoBernardo/PintoBernardo)
 
 
 <p>
