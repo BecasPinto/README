@@ -64,9 +64,10 @@ I am an independent developer, just starting my journey in the world of programm
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/PintoBernardo/PintoBernardo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/PintoBernardo/PintoBernardo)
 
+<a href="https://github.com/PintoBernardo?tab=repositories>
 <img align="left" alt="Click Here For All My Repos" src="images/Click Here For All My Repos.png" href="https://github.com/PintoBernardo?tab=repositories" />
 <br />
-
+<\a>
 </details>
 
 
