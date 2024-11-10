@@ -55,7 +55,7 @@ I am an independent developer, just starting my journey in the world of programm
 ### 📊 Stats
 
 ![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PintoBernardo&show_icons=true&theme=github_dark)   [![GitHub Streak](https://streak-stats.demolab.com?user=PintoBernardo&theme=github-dark-blue)](https://git.io/streak-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/wakatime?username=PintoBernardo&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PintoBernardo&layout=compact&theme=github_dark)
 
 #
 <!--
