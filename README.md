@@ -52,10 +52,43 @@ I am an independent developer, just starting my journey in the world of programm
 #
 
 
-### 📊 Stats
+<details open> 
+  <summary><h2>📚 My Top Projects</h2></summary>
 
-![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PintoBernardo&show_icons=true&theme=github_dark)   [![GitHub Streak](https://streak-stats.demolab.com?user=PintoBernardo&theme=github-dark-blue)](https://git.io/streak-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PintoBernardo&repo=PintoBernardo&show_owner=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+
+
+#
+
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=PintoBernardo&theme=github-dark-blue)](https://git.io/streak-stats)
+
+  <h3>💻 GitHub Profile Stats</h3>
+  
+![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PintoBernardo&show_icons=true&theme=github_dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PintoBernardo&layout=compact&theme=github_dark)
+
+  <br/>
+
+[![Bernardo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PintoBernardo&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <b>Note:</b> The top languages indicate the ones used in my public code, not my level of experience or expertise.
+
+</details>
 
 #
 <!--
