@@ -34,6 +34,7 @@ I am an independent developer, just starting my journey in the world of programm
 <a href="https://www.arduino.cc/"> <img align="left" alt="Arduino" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 <br />
 </p>
+
 #
 
 ### ⌛ Future Interests
@@ -50,6 +51,7 @@ I am an independent developer, just starting my journey in the world of programm
 
 <br />
 </p>
+
 #
 
 
