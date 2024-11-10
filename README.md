@@ -1,6 +1,6 @@
-# 👾 Bernardo Pinto
+# 👾 Bernardo Pinto 
 
-**`Programming Student (Developer/Student)`**
+**`Programming Student and Cybersecurity Enthusiast (Developer/Student/Cybersecurity)`**
 
 I am an independent developer, just starting my journey in the world of programming. Focused on improving my skills, I am learning and exploring various programming languages. By applying what I learn in practical projects, I aim to continuously enhance my knowledge and create efficient solutions. My goal is to keep growing as a programmer, taking on new challenges and expanding my expertise in different areas of software development.
 
@@ -100,8 +100,13 @@ I am an independent developer, just starting my journey in the world of programm
 </details>
 
 #
-<!--
+
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
--->
+ <summary><h3>🚀 My Coding Journey</h3></summary>
+   I started by creating simple Discord bots, which got me hooked on coding. From there, I discovered web development and built my first webpage—it was basic, but I felt so proud! Now, I’m diving deeper into web development, exploring both frontend and backend, and learning how to create websites and applications that people can actually use.
+
+Alongside web development, I recently developed an interest in cybersecurity. Understanding how to secure applications and protect data has become a big focus for me, and I’m excited to keep learning more about this field.
+
+Right now, I’m balancing both, taking on small projects to improve my skills in each area. It’s just the beginning, but I’m looking forward to where this journey will take me!
+
+#
