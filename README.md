@@ -84,16 +84,16 @@ I am an independent developer, just starting my journey in the world of programm
 
   <h3>🔥 Streak Stats</h3>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=PintoBernardo&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PintoBernardo&theme=github-dark-blue)](https://github.com/PintoBernardo/)
 
   <h3>💻 GitHub Profile Stats</h3>
   
-![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PintoBernardo&show_icons=true&theme=github_dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PintoBernardo&layout=compact&theme=github_dark)
+[![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PintoBernardo&show_icons=true&theme=github_dark)](https://github.com/PintoBernardo/)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PintoBernardo&layout=compact&theme=github_dark)](https://github.com/PintoBernardo/)
 
   <br/>
 
-[![Bernardo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PintoBernardo&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bernardo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PintoBernardo&theme=github-dark)](https://github.com/PintoBernardo/)
 
   <b>Note:</b> The top languages indicate the ones used in my public code, not my level of experience or expertise.
 
