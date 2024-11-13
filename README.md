@@ -47,7 +47,7 @@ I am an independent developer, just starting my journey in the world of programm
 <a href="https://developer.apple.com/xcode/"> <img align="left" alt="Apple XCode" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg"  />
 <a href="https://azure.microsoft.com/"> <img align="left" alt="Microsoft Azure" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 <a href="https://reactnative.dev/"> <img align="left" alt="React Native" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<a href="https://www.typescriptlang.org/"> <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg />
+<a href="https://www.typescriptlang.org/"> <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <a href="https://www.jetbrains.com/webstorm/"> <img align="left" alt="WebStorm" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
 
 <br />
