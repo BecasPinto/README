@@ -85,7 +85,7 @@ I am an independent developer, just starting my journey in the world of programm
 
   <h3>🔥 Streak Stats</h3>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=PintoBernardo&theme=github-dark-blue)](https://github.com/PintoBernardo/)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PintoBernardo&theme=github-dark-blue)](https://github.com/PintoBernardo/)
 
   <h3>💻 GitHub Profile Stats</h3>
   
